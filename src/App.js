@@ -8,7 +8,7 @@
     import TextForm from './Component/TextForm';
     
     import {
-      BrowserRouter as Router,
+      HashRouter as Router,
       Routes,
       Route,
           
